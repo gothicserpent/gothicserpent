@@ -1,5 +1,3 @@
-# gothicserpent
-
 Welcome to my github page. I mostly do research work in game development, theoretical projects, and the like. I am essentially a game developer, horticulturalist (hydroponic and aeroponic) and investor.
 
 I am interested in collaborating with people. If you want to make pull requests to my repos or suggest I make some information public, please let me know.
