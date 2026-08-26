@@ -17,9 +17,7 @@ I am interested in collaborating with people. If you want to make pull requests 
 <a href="https://github.com/EpicGames"><img src="https://img.shields.io/badge/Member%20of-Epic%20Games-313131?style=for-the-badge&logo=unrealengine&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://gothicserpent.itch.io/"><img src="https://img.shields.io/badge/Games-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://www.youtube.com/gothicserpent"><img src="https://img.shields.io/badge/YouTube-@gothicserpent-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://gothicserpent.com/"><img src="https://img.shields.io/badge/Bitcoin-3D5P6kbT...f3Zfn9-F7931A?style=for-the-badge&logo=bitcoin&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="bitcoin:3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9"><code>3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9</code></a>
-<a href="bitcoin:3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9">[ open in wallet → ]</a>
+<a><img src="https://img.shields.io/badge/Bitcoin-3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9-F7931A?style=for-the-badge&logo=bitcoin&logoColor=ffffff&labelColor=0d1117" /><code>3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9</code></a>
 <a><img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" /></a>
 
 </div>
