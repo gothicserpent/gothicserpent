@@ -9,7 +9,7 @@ I am interested in collaborating with people. If you want to make pull requests 
 ## About
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent&style=for-the-badge" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linktr.ee/gothicserpent"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/gothicserpentx"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/RquMAxPyT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>
