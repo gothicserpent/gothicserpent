@@ -8,7 +8,7 @@ I am interested in collaborating with people. If you want to make pull requests 
 
 ## About
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent" style="vertical-align: middle;" />
   <a href="https://linktr.ee/gothicserpent"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>
   <a href="https://x.com/gothicserpentx"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>
