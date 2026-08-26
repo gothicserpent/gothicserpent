@@ -9,12 +9,7 @@ I am interested in collaborating with people. If you want to make pull requests 
 ## About
 
 <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-<a href="https://github.com/gothicserpent">
-    <img
-      alt="Profile views"
-      src="https://komarev.com/ghpvc/?username=gothicserpent"
-    />
-  </a>
+<a href="https://github.com/gothicserpent"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent"/></a>
 <a href="https://linktr.ee/gothicserpent"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://x.com/gothicserpentx"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://discord.gg/RquMAxPyT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=adbac7&labelColor=0d1117" /></a>
