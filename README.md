@@ -12,14 +12,14 @@ I am interested in collaborating with people. If you want to make pull requests 
 <a href="https://github.com/gothicserpent">
     <img
       alt="Profile views"
-      src="https://komarev.com/ghpvc/?username=gothicserpent&color=539bf5&style=for-the-badge&abbreviated=true&label=PROFILE VIEWS"
+      src="https://komarev.com/ghpvc/?username=gothicserpent"
     />
   </a>
 <a href="https://linktr.ee/gothicserpent"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://x.com/gothicserpentx"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://discord.gg/RquMAxPyT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=adbac7&labelColor=0d1117" /></a>
 <a href="https://gothicserpent.com/"><img src="https://img.shields.io/badge/Personal%20Site-539bf5?style=for-the-badge&logo=google-chrome&logoColor=adbac7&labelColor=0d1117" /></a>
-<a href="https://github.com/EpicGames"><img src="https://img.shields.io/badge/Member%20of-EpicGames-313131?style=for-the-badge&logo=unrealengine&logoColor=adbac7&labelColor=0d1117" /></a>
+<a href="https://github.com/EpicGames"><img src="https://img.shields.io/badge/Member%20of-Epic%20Games-313131?style=for-the-badge&logo=unrealengine&logoColor=adbac7&labelColor=0d1117" /></a>
 <a><img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" /></a>
 
 </div>
