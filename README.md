@@ -33,7 +33,6 @@ I am interested in collaborating with people. If you want to make pull requests 
 ## GitHub Stats
 
 <p align="center">
-
   <img
     height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gothicserpent&theme=github_dark&animation=rgb-soft"
