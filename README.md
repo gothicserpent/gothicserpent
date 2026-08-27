@@ -2,10 +2,6 @@ Welcome to my github page. I mostly do research work in game development, theore
 
 I am interested in collaborating with people. If you want to make pull requests to my repos or suggest I make some information public, please let me know.
 
-<p align="right">
-
-</p>
-
 ## About
 
 <p align="center">
@@ -33,9 +29,6 @@ I am interested in collaborating with people. If you want to make pull requests 
 <p align="center">
   <img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" />
 </p>
-
-
-
 
 ## GitHub Stats
 
