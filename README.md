@@ -5,21 +5,21 @@ I am interested in collaborating with people. If you want to make pull requests 
 ## About
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent&style=for-the-badge" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/gothicserpent"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/gothicserpentx"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/RquMAxPyT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>
+  <img alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=gothicserpent&style=for-the-badge" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linktr.ee/gothicserpent" title="Linktree"><img src="https://img.shields.io/badge/linktree-1A9B6A?style=for-the-badge&logo=linktree&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/gothicserpentx" title="X / Twitter"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/RquMAxPyT2" title="Discord server"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>
 </p>
 
 <p align="center">
-  <a href="https://gothicserpent.com/"><img src="https://img.shields.io/badge/Personal%20Site-539bf5?style=for-the-badge&logo=google-chrome&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/EpicGames"><img src="https://img.shields.io/badge/Member%20of-Epic%20Games-313131?style=for-the-badge&logo=unrealengine&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gothicserpent.itch.io/"><img src="https://img.shields.io/badge/Games-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=ffffff&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/gothicserpent"><img src="https://img.shields.io/badge/YouTube-@gothicserpent-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d1117" style="vertical-align: middle;" /></a>
+  <a href="https://gothicserpent.com/" title="Personal site"><img src="https://img.shields.io/badge/Personal%20Site-539bf5?style=for-the-badge&logo=google-chrome&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/EpicGames" title="Member of Epic Games"><img src="https://img.shields.io/badge/Member%20of-Epic%20Games-313131?style=for-the-badge&logo=unrealengine&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gothicserpent.itch.io/" title="Games on itch.io"><img src="https://img.shields.io/badge/Games-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=ffffff&labelColor=0d1117" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/gothicserpent" title="YouTube channel"><img src="https://img.shields.io/badge/YouTube-@gothicserpent-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d1117" style="vertical-align: middle;" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin%20Donations-3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9-F7931A?style=for-the-badge&logo=bitcoin&logoColor=ffffff&labelColor=0d1117" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Bitcoin%20Donations-3D5P6kbTSE7oAzU9NJ6vwZZ46TAfb3Zfn9-F7931A?style=for-the-badge&logo=bitcoin&logoColor=ffffff&labelColor=0d1117" title="Bitcoin donations address" style="vertical-align: middle;" />
 </p>
 
 <p align="center">
@@ -27,8 +27,20 @@ I am interested in collaborating with people. If you want to make pull requests 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" title="Based in Winston-Salem, NC" style="vertical-align: middle;" />
 </p>
+
+---
+
+## Featured
+
+| Repo | Stack | Focus |
+|:-----|:------|:------|
+| [NeptuneGL](https://github.com/gothicserpent/NeptuneGL) | C++ | Unreal Engine 6DOF sci-fi space shooter with lasers, missiles, and 1st/3rd person camera. [itch.io](https://gothicserpent.itch.io/neptunegl) · [Steam](https://store.steampowered.com/app/782640/NeptuneGL/) |
+| [Rogue Frog](https://github.com/gothicserpent/RogueFrog) | C# | Top-down pixel-art dungeon crawler roguelike. Tap-aim controls designed for mobile. [itch.io](https://gothicserpent.itch.io/roguefrog) |
+| [Frog World](https://github.com/gothicserpent/FrogWorld) | C# | Unity platformer/adventure with wand-shooting staves. Tap controls designed for mobile. [itch.io](https://gothicserpent.itch.io/frogworld) |
+
+---
 
 ## GitHub Stats
 
