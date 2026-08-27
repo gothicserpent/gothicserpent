@@ -30,8 +30,6 @@ I am interested in collaborating with people. If you want to make pull requests 
   <img src="https://img.shields.io/badge/Winston%20Salem%2C%20NC-539bf5?style=for-the-badge&logo=google-maps&logoColor=adbac7&labelColor=0d1117" title="Based in Winston-Salem, NC" style="vertical-align: middle;" />
 </p>
 
----
-
 ## Featured
 
 | Repo | Stack | Focus |
@@ -39,8 +37,6 @@ I am interested in collaborating with people. If you want to make pull requests 
 | [NeptuneGL](https://github.com/gothicserpent/NeptuneGL) | C++ | Unreal Engine 6DOF sci-fi space shooter with lasers, missiles, and 1st/3rd person camera. [itch.io](https://gothicserpent.itch.io/neptunegl) · [Steam](https://store.steampowered.com/app/782640/NeptuneGL/) |
 | [Rogue Frog](https://github.com/gothicserpent/RogueFrog) | C# | Top-down pixel-art dungeon crawler roguelike. Tap-aim controls designed for mobile. [itch.io](https://gothicserpent.itch.io/roguefrog) |
 | [Frog World](https://github.com/gothicserpent/FrogWorld) | C# | Unity platformer/adventure with wand-shooting staves. Tap controls designed for mobile. [itch.io](https://gothicserpent.itch.io/frogworld) |
-
----
 
 ## GitHub Stats
 
