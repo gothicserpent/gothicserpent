@@ -39,11 +39,15 @@ I am interested in collaborating with people. If you want to make pull requests 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gothicserpent&theme=github_dark&animation=rgb-soft"
     alt="Stats"
   />
+</p>
+<p align="center">
   <img
     height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gothicserpent&theme=github_dark&animation=rgb-soft"
     alt="Profile Details"
   />
+</p>
+<p align="center">
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=gothicserpent&theme=dark&layout=compact&title_color=adbac7&text_color=adbac7&bg_color=0d1117&border_color=444c56&hide=html&langs_count=8"
@@ -54,6 +58,8 @@ I am interested in collaborating with people. If you want to make pull requests 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gothicserpent&theme=github_dark"
     alt="Repos per Language"
   />
+</p>
+<p align="center">
   <img
     height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gothicserpent&theme=github_dark"
